@@ -2,12 +2,13 @@
 
 This repository documents the computer vision aspects of the research titled "Pothole Detection in Asphalt Roads: A Comprehensive Approach for Enhanced Road Maintenance and Safety with AlexNet Model."
 
-![The Car Design 1](/workspaces/Pothole_detection/fig1.png)
-![The Car Design 2](/workspaces/Pothole_detection/fig2.png)
+![The Car Design 1](fig1.png)
 
 ## Overview
 
 This research focuses on detecting potholes on asphalt roads using computer vision techniques, particularly convolutional neural networks (CNNs). The AlexNet model demonstrated superior performance with an accuracy of 92.15% and an F-score of 96.52%.
+
+![The Car Design 2](fig2.png)
 
 ## Repository Structure
 
