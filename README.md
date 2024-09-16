@@ -31,6 +31,7 @@ While the codebase is not publicly available due to proprietary restrictions, th
 ## Citation
 
 If you reference this work, please cite:
+```
 
 @inproceedings{Pothole Detection,
  author = {M. E. S. Abdelmalak and N. Khodadadi and A. M. Zaki and M. M. Eid and F. H. Rizk and A. Ibrahim and A. A. Abdelhamid and L. Abualigah and E.-S. M. El-kenawy},
@@ -40,3 +41,4 @@ If you reference this work, please cite:
  title = {Pothole Detection in Asphalt Roads: A Comprehensive Approach for Enhanced Road Maintenance and Safety with AlexNet Model},
  year = {2024}
 }
+```
